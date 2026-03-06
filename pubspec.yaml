@@ -1,0 +1,36 @@
+name: galaxy_dancer
+description: 우주대스타 - Galaxy Dancer
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/animations/toprock/
+    - assets/images/animations/mechanic_twostep/
+    - assets/images/animations/dataswip_toplock/
+    - assets/images/animations/footwork/
+    - assets/images/animations/baby_freeze/
+    - assets/images/animations/glitch_wave/
+    - assets/images/animations/hologram_sixstep/
+    - assets/images/animations/booster_swipe/
+    - assets/images/animations/nano_flux/
+    - assets/images/animations/electric_flare/
+    - assets/images/animations/flare/
+    - assets/images/animations/headspin/
+    - assets/images/animations/plazma_spin/
+    - assets/images/animations/neurallink_windmill/
+    - assets/images/animations/digital_ghost/

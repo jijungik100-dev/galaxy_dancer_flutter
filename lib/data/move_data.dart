@@ -112,12 +112,12 @@ const List<MoveData> kMoves = [
     attack: 20, buff: Buff('DEF +5', 1),
     desc: '팔꿈치를 옆구리에 고정하고 공중에서 멈추는 기초 프리즈.',
     frames: [
-      'assets/images/animations/baby_freeze/bboy_freeze_f1_1772667724774.png',
-      'assets/images/animations/baby_freeze/bboy_freeze_f2_1772667740068.png',
-      'assets/images/animations/baby_freeze/bboy_freeze_f3_1772667757810.png',
-      'assets/images/animations/baby_freeze/bboy_freeze_f4_1772667771184.png',
-      'assets/images/animations/baby_freeze/bboy_freeze_f5.png',
-      'assets/images/animations/baby_freeze/bboy_freeze_f6.png',
+      'assets/images/animations/baby_freeze/baby_freeze_f1.png',
+      'assets/images/animations/baby_freeze/baby_freeze_f2.png',
+      'assets/images/animations/baby_freeze/baby_freeze_f3.png',
+      'assets/images/animations/baby_freeze/baby_freeze_f4.png',
+      'assets/images/animations/baby_freeze/baby_freeze_f5.png',
+      'assets/images/animations/baby_freeze/baby_freeze_f6.png',
     ],
   ),
   MoveData(
